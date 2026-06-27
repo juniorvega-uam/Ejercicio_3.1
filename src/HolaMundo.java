@@ -1,8 +1,13 @@
-public class HolaMundo {
+import java.util.Scanner;
 
-    public static void main(String[] args) {
-        System.out.println("Hola, Tecnovía!");
-        System.out.println("Bienvenido al bloque 3.");
-    }
+public class HolaM System.out.print("Ingrese su nombre: ");public class HolaMundo {
+    String nombre = sc.nextLine();
 
+        System.out.println("Hola " + nombre);
 }
+}
+
+public static void main(String[] args) {
+
+    Scanner sc = new Scanner(System.in);
+
